@@ -25,11 +25,11 @@ You may want to go with `no-cache`, `no-store` or both. Keep in mind `no-cache` 
 
 ### SPWebConfigModification
 
-As a general rule don't want to be hacking away at your `web.config` files manually. Particularly if you're working with a multi-server farm, or virtually any production scenario. That's where the [SPWebConfigModification](https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spwebconfigmodification.aspx) class comes in. Changes applied to the SPWebApplication`s `WebConfigModifications` are:
+As a general rule don't want to be hacking away at your `web.config` files manually. Particularly if you're working with a multi-server farm, or virtually any production scenario. That's where the [SPWebConfigModification](https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spwebconfigmodification.aspx) class comes in. Changes applied to the a web application's `WebConfigModifications` are:
 * applied to all servers that host that web application
 * automatically applied to any new web front-end servers added to your farm
 * automatically applied when you extend the SPWebApplication to a server that wasn't previously hosting that SPWebApplication 
-* tracked centrally
+* tracked and managed centrally
 
 Here's an example adapted from [Sam Betts' blog post on custom response headers](https://blogs.msdn.microsoft.com/sambetts/2015/07/16/add-custom-http-headers-to-sharepoint-responses/) that will set the `httpOnlyCookies` and `requireSSL` flags.
 
