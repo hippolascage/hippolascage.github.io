@@ -7,7 +7,7 @@ excerpt: Some notes on SharePoint Server hardening. I've been applying these to 
 
 Some notes on SharePoint Server hardening. I've been applying these to SharePoint Server 2016 but these are IIS-level fixes so all of this should be applicable to SharePoint 2013 (and probably 2010 as well).
 
-## HTTP-only cookies with secure flags
+### HTTP-only cookies with secure flags
 
 Whether you like it or not, SharePoint bakes a lot of cookies and doesn't secure them by default, leaving them potentially vulnerable to XSS attacks. Lock down the old cookie jar by ensuring your `web.config` sets the following flags:
 
@@ -15,7 +15,7 @@ Whether you like it or not, SharePoint bakes a lot of cookies and doesn't secure
 <httpCookies httpOnlyCookies="true" requireSSL="true" />  
 ```
 
-## Cache management
+### Cache management
 
 You may want to go with `no-cache`, `no-store` or both. Keep in mind `no-cache` != `don't cache` and choose accordingly. Consider performance impacts. 
 
@@ -23,7 +23,7 @@ You may want to go with `no-cache`, `no-store` or both. Keep in mind `no-cache` 
 <add name="Cache-Control" value="no-store" />
 ```
 
-## Updating the web.config programatically
+### SPWebConfigModification
 
 As a general rule don't want to be hacking away at your `web.config` files manually. Particularly if you're working with a multi-server farm, or virtually any production scenario. That's where the [SPWebConfigModification](https://msdn.microsoft.com/en-us/library/microsoft.sharepoint.administration.spwebconfigmodification.aspx) class comes in. Changes applied to the SPWebApplication`s `WebConfigModifications` are:
 * applied to all servers that host that web application
