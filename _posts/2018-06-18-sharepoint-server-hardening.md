@@ -1,6 +1,7 @@
 ---
 layout: default
 title: SharePoint Server Hardening
+excerpt: Some notes on SharePoint Server hardening. I've been applying these to SharePoint Server 2016 but these are IIS-level fixes so as far as I can tell all of this is applicable to SharePoint 2013 (and probably 2010 as well).
 ---
 # SharePoint Server Hardening
 
