@@ -31,7 +31,7 @@ As a general rule don't want to be hacking away at your `web.config` files manua
 * automatically applied when you extend the SPWebApplication to a server that wasn't previously hosting that SPWebApplication 
 * tracked and managed centrally
 
-Here's an example adapted from [Sam Betts' blog post on custom response headers](https://blogs.msdn.microsoft.com/sambetts/2015/07/16/add-custom-http-headers-to-sharepoint-responses/) that will set the `httpOnlyCookies` and `requireSSL` flags.
+Here's an example adapted from [Sam Betts' blog post on custom response headers](https://blogs.msdn.microsoft.com/sambetts/2015/07/16/add-custom-http-headers-to-sharepoint-responses/) that will set the `httpOnlyCookies` and `requireSSL` flags discussed above.
 
 ```powershell
 [CmdletBinding()]
