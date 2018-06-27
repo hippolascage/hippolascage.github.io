@@ -11,5 +11,7 @@ layout: default
       </div>
 
     </article>
+    <hr class="article-break">
+    
   {% endfor %}
 </div>
