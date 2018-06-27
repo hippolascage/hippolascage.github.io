@@ -4,7 +4,7 @@ title: SharePoint Farm Passphrases and Configuration Cache
 ---
 # SharePoint Farm Passphrases and Configuration Cache
 
-While adding a server to a client's farm we made the discovery that they had lost track of their farm passphrase. 
+While adding a server to a client's farm we discovered that they had lost track of their farm passphrase. 
 
 ### What now?
 
