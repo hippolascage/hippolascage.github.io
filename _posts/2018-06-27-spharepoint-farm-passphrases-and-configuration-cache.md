@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lost my SharePoint Farm Passphrase
+title: SharePoint Farm Passphrases and Configuration Cache
 ---
 # Lost my SharePoint Farm Passphrase
 
