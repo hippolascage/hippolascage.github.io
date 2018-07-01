@@ -4,7 +4,7 @@ title: sunny wijeratne
 
 name: sunny wijeratne
 
-description: "i'm usually more charismatic than this"
+description: i'm usually more charismatic than this
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://pbs.twimg.com/profile_images/991564075053137921/48v7Zhmy_400x400.jpg
@@ -40,3 +40,6 @@ google_analytics: UA-45390081-1
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
 url: https://sunnywijeratne.com
+
+plugins:
+  - jekyll-feed
