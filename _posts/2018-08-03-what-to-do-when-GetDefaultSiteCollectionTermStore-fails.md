@@ -8,7 +8,7 @@ excerpt:
 ### The Problem
 
 I was in the kitchen whipping up a fresh batch of SharePoint 2016 development environments recently. Using [Export-PnPTermGroupToXml](https://docs.microsoft.com/en-us/powershell/module/sharepoint-pnp/export-pnptermgrouptoxml), I generated some exports from a tasty Taxonomy I had in another environment. Once my deployment scripts had run, I tried to import the Term Sets using [Import-PnPTermGroupFromXml
-](https://docs.microsoft.com/en-us/powershell/module/sharepoint-pnp/import-pnptermgroupfromxml) only to have SharePoint Server serve me up a steaming pile of `nope`:
+](https://docs.microsoft.com/en-us/powershell/module/sharepoint-pnp/import-pnptermgroupfromxml) only to have SharePoint Server serve me up a steaming pile of `nope nuggets`:
 
 ![](/assets/2018-08-03/getdefaultsitecollectiontermstore.png)
 
