@@ -24,7 +24,7 @@ Consider an alternative:
 
 `ME:` I noticed you stock your office kitchens with paper cups. That must involve a significant ongoing expense. It's also not very environmentally friendly. Have you considered the potential cost savings of reusable ceramic cups and mugs?
 
-`CUSTOMER:` *_is slightly more interested, but hardly blown away_*
+`CUSTOMER:` *is slightly more interested, but hardly blown away*
 
 In this second example, I'm presenting a problem: _ongoing cost to the business_, then, I'm presenting a solution that will address it.
 
