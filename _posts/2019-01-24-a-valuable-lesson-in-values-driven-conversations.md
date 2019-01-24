@@ -40,7 +40,6 @@ In the example above, I can dive into the advantages ceramic cups over paper cup
 This is a habit I have fallen into when discussing the merits of products and technology solutions. It's so easy to align the solution to *my own* values, which are technical in nature. Meanwhile, I've ignored a raft of business benefits and insights which would have resonated with my customer. So, how can we avoid this trap?
 
 ### Be FABulous!
-
 What does being FABulous involve? It involves making FAB statements. FAB stands for:
 * Feature 
 * Advantage 
@@ -48,7 +47,7 @@ What does being FABulous involve? It involves making FAB statements. FAB stands 
 
 Using these prompts I can consider the solution from the client's perspective. Once I've considered the Features, Advantages and Benefits, I can be confident I am presenting a solution which addresses a genuine need on the part of my customer. 
 
-Let's break down the argument for ceramic cups in this way:
+Let's break down an argument for ceramic cups with a FAB statement:
 * Feature: the cup has a handle
 * Advantage: you don't need to grip a paper cup full of hot tea or coffee directly
 * Benefit: your employees hands are protected from burns
@@ -61,16 +60,14 @@ To understand some potential motivations, we can look at three key value drivers
 * Risk
 
 To build a compelling case for our solution, we need to define the problem in the context of one or more of these drivers. Your solution should then address the specific issues raised in those areas.
-### Revenue 
 
+### Revenue 
 Commercial operations need to generate revenue to cover costs and provide value to their shareholders, owners or investors. Thus, maintaining or increasing revenue is a strong driver. If your proposal has the potential to increase revenue, try to quantify this for the customer.
 
 ### Cost 
-
 Reducing costs can also translate to increased profits or operational capital. Often, teams or departments will have fixed revenues within their businesses. In these cases, cost is particularly important. If your solution will enable the customer's business to "do more with less" - share these potential impacts. 
 
 ### Risk 
-
 Managing risk associated with doing business can be the strongest driver in decision making. Risk can take many forms, such as:
 * the risk of injury to staff, customers or the public
 * the risk of non-compliance in a legal or regulatory framework
@@ -78,7 +75,6 @@ Managing risk associated with doing business can be the strongest driver in deci
 * the risk of losing market share
 
 ## The conversation
-
 So, what does a values based conversation look like? If we bring it all together, it might look a little something like this:
 
 `ME:` I noticed you're stocking your office kitchens with paper cups. Would you like to reduce the ongoing cost associated with replacing them, and the risk of workplace injury associated with paper cups?
