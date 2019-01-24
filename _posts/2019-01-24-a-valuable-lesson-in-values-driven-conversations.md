@@ -30,11 +30,11 @@ In this second example, I'm presenting a problem: _ongoing cost to the business_
 
 This is a good start, but the customer is unlikely to buy-in without a clear benefit. To demonstrate the benefit, we have to also articulate the specific value of the solution. That is, we have to explain how the outcome will justify and potential risks, cost and effort involved. To convey this in a way which resonates with our client, we need to ensure we are speaking their language.
 
-## Present the solution (AKA Talking tech vs being FABulous) 
+## Articulate the solution (and be FABulous) 
 So far we have framed the problem and articulated a potential solution. Next, we need to ensure the solution aligns to the client's motivations.
 In the example above, I can dive into the advantages ceramic cups over paper cups:
-* increased durability of ceramic cups,
-* superior heat retention,
+* increased durability of ceramic cups
+* superior heat retention
 * low rate of manufacturing errors
 
 This is a habit I have fallen into when discussing the merits of products and technology solutions. It's so easy to align the solution to *my own* values, which are technical in nature. Meanwhile, I've ignored a raft of business benefits and insights which would have resonated with my customer. So, how can we avoid this trap?
