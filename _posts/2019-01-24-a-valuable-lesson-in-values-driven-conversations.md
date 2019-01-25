@@ -14,7 +14,7 @@ A solution without a problem is an idea. Ideas are great, but they often fail to
 
 Here's an example of an *idea*:
 
-`ME:` Have you considered stocking your office kitchens with ceramic cups and mugs. Everone says they're better than paper cups!
+`ME:` Have you considered stocking your office kitchens with ceramic cups and mugs. Everyone says they're better than paper cups!
 
 `CUSTOMER:` Sure, I'll think about it.
 
