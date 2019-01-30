@@ -92,7 +92,7 @@ The same hierarchy is inverted when you consider the size of the audience you ca
 
 ## Our Communication Strategy In Action
 
-Let's apply the 4W+H prompts to a communication campaign.
+Let's apply the 4W + H prompts to a communication campaign.
 
 Consider an office relocation: one of your satellite offices is being absorbed into the main office of its city. You start your change  campaign an initial "change is coming" announcement.
 
