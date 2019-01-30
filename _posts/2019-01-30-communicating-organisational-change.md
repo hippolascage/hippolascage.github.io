@@ -161,4 +161,4 @@ Consider emails to each stakeholder group as the primary mechanism for the initi
 
 ## Conclusion
 
-Change is scary. How organisations **communicate** change can have a significant impact on the way their people experience the change. Having applied the 4W + H method, considered the audience and the messenger, we can be confident we have made a sincere effort to foreshadow upcoming changes.
+Change is scary. How we communicate change _has_ a significant impact on the way our people experience change. If we apply the 4W + H method, consider the audience and the messenger, we can be confident we have made a sincere effort to foreshadow the upcoming change.
