@@ -19,13 +19,9 @@ Understanding common reasons for push back or resistance to change can help orga
 When devising our Communication Strategy, we'll start by answering the "Four W's + H":
 
 - Who?
-
 - Why?
-
 - When?
-
 - What?
-
 - How?
 
 ### Who?
@@ -73,9 +69,7 @@ People will want to know exactly how they will be affected – essentially, how 
 It's important to be genuine in your messaging, particularly where there are unknowns. Things people will easily see through include:
 
 - Glossing over unknown aspects of the change
-
 - Excessive reframing of potential negative impacts
-
 - Hiding behind buzzwords
 
 ### How?
