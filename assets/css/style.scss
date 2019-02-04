@@ -2,6 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+body {background: #f2f2f2}
 footer.inner p {display: none;}
 a#forkme_banner {display: none;}
 #downloads {display: none;}
