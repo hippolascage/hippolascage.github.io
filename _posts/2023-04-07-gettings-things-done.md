@@ -65,20 +65,36 @@ In conclusion, both Microsoft To Do and Todoist are great options for implementi
 
 As with any productivity or time management system, the Getting Things Done (GTD) method also has some limitations. These limitations include:
 
-* Complexity: The GTD method can be complex and require a significant investment of time and effort to set up and maintain. The process of collecting, processing, organising, and reviewing tasks and projects can be overwhelming for some people, especially those who are not accustomed to using such structured systems.
+### Complexity
 
-* Learning curve: GTD has a learning curve, and it may take time to fully understand and implement all of its principles and practices effectively. This can be a challenge for individuals who are looking for a quick and simple solution to their productivity needs.
+The GTD method can be complex and require a significant investment of time and effort to set up and maintain. The process of collecting, processing, organising, and reviewing tasks and projects can be overwhelming for some people, especially those who are not accustomed to using such structured systems.
 
-* Reliance on technology: GTD relies heavily on technology (I imagine this is why you're here!), such as task management apps, calendars, and other digital tools, to capture, organise, and manage tasks and projects. This may not be suitable for everyone, especially those who prefer paper-based systems or who do not want to trial multiple technology solutions in search of the most suitable option.
+### Learning curve
 
-* Lack of prioritisation: GTD does not explicitly emphasize prioritisation or help you determine which tasks are most important or urgent. While it provides a framework for organising tasks based on context, it may not provide enough guidance on prioritising tasks effectively, which could result in a lack of focus on high-impact tasks.
+GTD has a learning curve, and it may take time to fully understand and implement all of its principles and practices effectively. This can be a challenge for individuals who are looking for a quick and simple solution to their productivity needs.
 
-* Overemphasis on external inputs: GTD places a strong emphasis on capturing and processing all incoming tasks and inputs, which can lead to a focus on managing external inputs rather than prioritising and executing on strategic or long-term goals. This can result in a reactive approach to work, rather than a proactive one.
+### Reliance on technology
 
-* Information overload: GTD encourages capturing and collecting all tasks, ideas, and inputs, which can result in an overwhelming volume of information to process and manage. Without effective filters or strategies for handling this information overload, it can be challenging to stay organised and focused.
+GTD relies heavily on technology (I imagine this is why you're here!), such as task management apps, calendars, and other digital tools, to capture, organise, and manage tasks and projects. This may not be suitable for everyone, especially those who prefer paper-based systems or who do not want to trial multiple technology solutions in search of the most suitable option.
 
-* Lack of flexibility: GTD is a structured system with specific steps and processes, which may not suit everyone's working style or preferences. Some individuals may find it too rigid and may prefer a more flexible approach to task and time management.
+### Lack of prioritisation
 
-* Time-consuming reviews: GTD recommends regular reviews of all tasks and projects, which can be time-consuming and may require significant effort to maintain. I feel there is a risk of falling into a constant review/optimisation trap.
+GTD does not explicitly emphasize prioritisation or help you determine which tasks are most important or urgent. While it provides a framework for organising tasks based on context, it may not provide enough guidance on prioritising tasks effectively, which could result in a lack of focus on high-impact tasks.
+
+### Overemphasis on external inputs
+
+GTD places a strong emphasis on capturing and processing all incoming tasks and inputs, which can lead to a focus on managing external inputs rather than prioritising and executing on strategic or long-term goals. This can result in a reactive approach to work, rather than a proactive one.
+
+### Information overload
+
+GTD encourages capturing and collecting all tasks, ideas, and inputs, which can result in an overwhelming volume of information to process and manage. Without effective filters or strategies for handling this information overload, it can be challenging to stay organised and focused.
+
+### Lack of flexibility
+
+GTD is a structured system with specific steps and processes, which may not suit everyone's working style or preferences. Some individuals may find it too rigid and may prefer a more flexible approach to task and time management.
+
+### Time-consuming reviews
+
+GTD recommends regular reviews of all tasks and projects, which can be time-consuming and may require significant effort to maintain. I feel there is a risk of falling into a constant review/optimisation trap.
 
 It's important to note that while GTD has its limitations, it can be a highly effective productivity method. It may not be suitable for everyone, and it's essential to consider your own working style, preferences, and needs when evaluating a productivity system.
